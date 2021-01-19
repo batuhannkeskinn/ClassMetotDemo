@@ -11,6 +11,7 @@ namespace ClassMetotDemo
         public string Ad { get; set; }
         public string SoyAd { get; set; }
         public int TC { get; set; }
+        
 
 
 
