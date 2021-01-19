@@ -9,7 +9,6 @@ namespace ClassMetotDemo
         
         public int ID { get; set; }
         public string Ad { get; set; }
-
         public string SoyAd { get; set; }
         public int TC { get; set; }
 
